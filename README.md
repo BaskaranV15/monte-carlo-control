@@ -82,5 +82,5 @@ print('Reaches goal {:.2f}%. Obtains an average undiscounted return of {:.4f}.'.
 
 
 ## RESULT:
-thus implement the Monte Carlo Control algorithm to optimize decision-making in a reinforcement learning environment by approximating the optimal action-value function done sucessfully.
+Thus implement the Monte Carlo Control algorithm to optimize decision-making in a reinforcement learning environment by approximating the optimal action-value function done sucessfully.
 
